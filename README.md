@@ -6,6 +6,10 @@ You can generate a new address by running `npx kin-address`. `npx` will install 
 
 If you don't want to wait for `npx` each time you run this command, you can install it globally: `npm -g kin-address`.
 
+# Do you like this tool?
+
+Support my development by donating some Kin to `B33hx7NmZXRiC5Rg2Er7pqdNeKLEm7a7uD8tt9zKG4pk` 😎
+
 ## Generate a new address
 
 ```shell
