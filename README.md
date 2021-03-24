@@ -19,7 +19,7 @@ $ npm install -g kin-address
 $ kin-address COMMAND
 running command...
 $ kin-address (-v|--version|version)
-kin-address/1.0.0 darwin-x64 node-v14.15.4
+kin-address/1.0.1 darwin-x64 node-v14.15.4
 $ kin-address --help [COMMAND]
 USAGE
   $ kin-address COMMAND
