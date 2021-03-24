@@ -2,5 +2,10 @@
   "extends": [
     "oclif",
     "oclif-typescript"
-  ]
+  ],
+  "rules": {
+    "lines-between-class-members": "off",
+    "object-curly-spacing": "off",
+    "unicorn/prefer-type-error": "off"
+  }
 }
