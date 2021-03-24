@@ -2,6 +2,10 @@
 
 Generate a Kin Address with option to search a 'vanity address'.
 
+You can generate a new address by running `npx kin-address`. `npx` will install and run the package for you.
+
+If you don't want to wait for `npx` each time you run this command, you can install it globally: `npm -g kin-address`.
+
 ## Generate a new address
 
 ```shell
